@@ -1,0 +1,22 @@
+*.3gp
+*.avi
+*.flv
+*.m4v
+*.mkv
+*.mp4
+*.MTS
+*.wmv
+
+*.bat
+*.code-workspace
+.DS_Store
+*.exe
+*.log
+*.txt
+
+*)
+__pycache__/
+venv/
+.vscode/
+# Don't ignore files in the test_video folder
+!test_video/*
